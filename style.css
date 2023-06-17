@@ -5,5 +5,13 @@
 }
 
 .blue {
-    background-color: deepskyblue;
+    background-color: #410d37;
+}
+
+.color {
+    color: white;
+}
+
+.center {
+    text-align: center;
 }
